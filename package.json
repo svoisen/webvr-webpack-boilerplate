@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "three": "^0.77.1",
+    "webvr-boilerplate": "^0.4.3",
     "webvr-polyfill": "^0.9.10"
   }
 }
